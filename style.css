@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+nav{
+    border-block-end: solid;
+    border-block-end-color: darkgrey;    
+}
+.nav-img{
+    display:flex;
+    padding: 10px;
+    align-items: center;
+    width: 80px;
+}
+.main-img{
+    display:flex;
+    padding: 10%;     
+    margin: 5%;
+    width: 350px;
+     }
+.footer{
+    background-color:   salmon;
+    border-block-start: solid;
+    border-block-Start-color: green;
+    padding-bottom: initial;
+    }
